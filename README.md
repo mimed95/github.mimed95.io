@@ -1,4 +1,4 @@
-!\[my badge\](https://badgen.net/badge/https://mimed95.github/.io/red?icon=github)
+[![Deploy to GitHub Pages](https://github.com/mimed95/mimed95.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/mimed95/mimed95.github.io/actions/workflows/deploy.yml)
 # Astro Starter Kit: **Portfolio**
 
 
